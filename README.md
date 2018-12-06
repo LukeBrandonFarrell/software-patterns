@@ -1,4 +1,4 @@
-# software-patterns
+# Software Patterns
 
 This repository contains a collection of software development patterns written in PHP. This was created to learn the various software patternsthat can be used in modern software. PHP was used to as the language of choice to experiment with these patterns.
 
