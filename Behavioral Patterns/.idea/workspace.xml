@@ -44,7 +44,7 @@
       <file leaf-file-name="Iterator.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Iterator.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
+            <state relative-caret-position="735">
               <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
             </state>
           </provider>
@@ -141,12 +141,12 @@
       <workItem from="1543999904809" duration="3289000" />
       <workItem from="1544086895404" duration="3347000" />
       <workItem from="1544431790330" duration="2483000" />
-      <workItem from="1545931554008" duration="5617000" />
+      <workItem from="1545931554008" duration="5693000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17646000" />
+    <option name="totallyTimeSpent" value="17722000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="724" y="23" width="716" height="793" extended-state="0" />
@@ -353,7 +353,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Iterator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
+        <state relative-caret-position="735">
           <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
         </state>
       </provider>
